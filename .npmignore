@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+.*
+!.gitignore
+!.npmignore
+!.vscode
+
+demo
+react-demo
+static-demo
